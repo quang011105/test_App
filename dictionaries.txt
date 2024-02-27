@@ -1,0 +1,10 @@
+house
+nhà
+tree
+cây
+computer
+máy tính
+book
+sách
+cat
+con mèo
